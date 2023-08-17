@@ -36,7 +36,6 @@ public class 자료형변환 {
 		System.out.println("점수 합계 : " + sum + ", 점수 평균 : " + avg);
 		// 자료형이 double이고, 나누는 값이 0이면 -> Infinity
 		// 자료형이 int 이고, 나누는 값이 0이면 -> 예외발생(Exception)
-		
-		// git 연습중
+
 	}
 }
