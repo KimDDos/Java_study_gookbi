@@ -43,7 +43,6 @@ public class 과제02 {
 		int user[] = userNum();
 		
 			g.gameSet(arr, user);
-			
 				
 		}
 	
